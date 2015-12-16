@@ -32,12 +32,6 @@
                     <link xlink:href="http://www.inf.unideb.hu/~nbatfai">http://www.inf.unideb.hu/~nbatfai</link>
                 </otheraddr>
             </address>
-	<author>
-		<personname>
-			<surname>Tarján</surname>
-			<firstname>Zsolt</firstname>
-		</personname>
-	</author>
         </author>
         <edition>SAMU SRS, v. Nahshon.0.0.5</edition>
         <pubdate>2015</pubdate>
